@@ -1,6 +1,6 @@
 <div align="center">
 
-# AI For Social Good
+# ai for social good
 
 ## Suicidal Ideation Detection In Online Social Content
 
